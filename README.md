@@ -4,7 +4,7 @@ Mininet 应用与源码剖析
 
 本书的一到三章介绍 Mininet 的安装和使用；第四章介绍一些高级功能；五到七章分析 Mininet 的源码实现。
 
-最新版本在线阅读：[GitBook](https://www.gitbook.io/book/yeasy/mininet_book)。
+最新版本在线阅读：[GitBook](https://www.gitbooks.io/book/yeasy/mininet_book)。
 
 本书源码在 Github 上维护，欢迎参与： [https://github.com/yeasy/mininet_book](https://github.com/yeasy/mininet_book)。
 
